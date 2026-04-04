@@ -12,28 +12,40 @@ This project is designed to practice and strengthen core Python concepts in a st
 ✅ Clean, readable, and beginner-friendly code
 
 🧠 Topics Covered
-- Basic Python concepts
-- Conditional statements
-- Loops
-- Functions
-- Exception handling
-- Lists, Tuples, Dictionaries
-- String operations
+
+* Basic Python concepts
+* Conditional statements
+* Loops
+* Functions
+* Exception handling
+* Lists, Tuples, Dictionaries
+* String operations
 
 📂 Project Structure
 All 50 questions are solved in a single Jupyter Notebook
 Each problem is clearly separated and explained
 Code is easy to understand and well-organized
 
+---
+
+## 📸 Notebook Preview
+
+![image alt](https://github.com/ashishkumar1812/python_50_questions/blob/a391f68304d41b4c3fd6c16196f370536cb3efb8/Image/Preview.png)
+
+
+---
+
 🚀 How to Run
-- Clone the repository
-- Open the notebook in Jupyter Notebook / Jupyter Lab
-- In CMD prompt write jupyter notebook
+
+* Clone the repository
+* Open the notebook in Jupyter Notebook / Jupyter Lab
+* In CMD prompt write jupyter notebook
 
 🎯 Purpose
-- Practice Python fundamentals
-- Prepare for coding interviews
-- Improve problem-solving skills
+
+* Practice Python fundamentals
+* Prepare for coding interviews
+* Improve problem-solving skills
 
 📌 Author
 Ashish Kumar
